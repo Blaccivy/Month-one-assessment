@@ -16,7 +16,7 @@ variable "key_pair" {
 
 variable "my_ip" {
   description = "value of my own ip"
-  default     = "102.88.113.174/32"
+  default     = "REDACTED/32"
 
 }
 
