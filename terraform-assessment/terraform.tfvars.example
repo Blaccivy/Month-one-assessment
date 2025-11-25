@@ -1,0 +1,5 @@
+region = "us-east-1"
+ami_value = "ami-0fa3fe0fa7920f68e"
+instance_type_web = "t3.micro"
+instance_type_database = "t3.small"
+key_pair = "ConnectSSH"
